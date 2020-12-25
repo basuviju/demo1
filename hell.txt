@@ -1,1 +1,2 @@
 testing 1st line
+2nd line for feature 2
